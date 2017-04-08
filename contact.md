@@ -5,9 +5,10 @@ permalink: /contact/
 feature-img: "img/sample_feature_img_3.png"
 ---
 
-<form action="https://getsimpleform.com/messages?form_api_token=_yourtoken_" method="post">
+<form action="https://getsimpleform.com/messages?form_api_token=c4f4e4a085024e2c03d70a9426397404" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='http://bloc.github.io/portfolio-iro/thank-you/' />
+  
+  <input type='hidden' name='redirect_to' value='http://timgates2.github.io/thank-you/' />
   <input type='text' name='name' placeholder='Your Full Name' /> 
   <br>
   <br>
